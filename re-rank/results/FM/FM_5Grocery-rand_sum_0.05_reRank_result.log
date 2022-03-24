@@ -1,0 +1,92 @@
+Model:biasedMF | Dataset:dataset\5Grocery-rand |  Epsilon=0.05 | K=10 | GRU_metric=f1
+Before optimization overall scores           : ndcg@10=0.4508 f1@10=0.1578 
+Before optimization group 1 (active) scores  : ndcg@10=0.6629 f1@10=0.3385 
+Before optimization group 2 (inactive) scores: ndcg@10=0.4316 f1@10=0.1415 
+Before optimization ------------------ UFG-f1:0.1970
+After optimization overall metric scores     : ndcg@10=0.4554 f1@10=0.1607 
+After optimization group 1 (active) scores   : ndcg@10=0.5218 f1@10=0.2066 
+After optimization group 2 (inactive) scores : ndcg@10=0.4493 f1@10=0.1565 
+After optimization ------------------- UFG-f1:0.0501
+
+
+
+Model:biasedMF | Dataset:dataset\5Grocery-rand |  Epsilon=1 | K=10 | GRU_metric=f1
+Before optimization overall scores           : ndcg@10=0.4508 f1@10=0.1578 
+Before optimization group 1 (active) scores  : ndcg@10=0.6629 f1@10=0.3385 
+Before optimization group 2 (inactive) scores: ndcg@10=0.4316 f1@10=0.1415 
+Before optimization ------------------ UFG-f1:0.1970
+After optimization overall metric scores     : ndcg@10=0.4508 f1@10=0.1578 
+After optimization group 1 (active) scores   : ndcg@10=0.6629 f1@10=0.3385 
+After optimization group 2 (inactive) scores : ndcg@10=0.4316 f1@10=0.1415 
+After optimization ------------------- UFG-f1:0.1970
+
+
+
+Model:biasedMF | Dataset:dataset\5Grocery-rand |  Epsilon=0.1 | K=10 | GRU_metric=f1
+Before optimization overall scores           : ndcg@10=0.4508 f1@10=0.1578 
+Before optimization group 1 (active) scores  : ndcg@10=0.6629 f1@10=0.3385 
+Before optimization group 2 (inactive) scores: ndcg@10=0.4316 f1@10=0.1415 
+Before optimization ------------------ UFG-f1:0.1970
+After optimization overall metric scores     : ndcg@10=0.4556 f1@10=0.1599 
+After optimization group 1 (active) scores   : ndcg@10=0.5911 f1@10=0.2517 
+After optimization group 2 (inactive) scores : ndcg@10=0.4434 f1@10=0.1516 
+After optimization ------------------- UFG-f1:0.1001
+
+
+
+Model:biasedMF | Dataset:dataset\5Grocery-rand |  Epsilon=0.02 | K=10 | GRU_metric=f1
+Before optimization overall scores           : ndcg@10=0.4508 f1@10=0.1578 
+Before optimization group 1 (active) scores  : ndcg@10=0.6629 f1@10=0.3385 
+Before optimization group 2 (inactive) scores: ndcg@10=0.4316 f1@10=0.1415 
+Before optimization ------------------ UFG-f1:0.1970
+After optimization overall metric scores     : ndcg@10=0.4549 f1@10=0.1614 
+After optimization group 1 (active) scores   : ndcg@10=0.4797 f1@10=0.1799 
+After optimization group 2 (inactive) scores : ndcg@10=0.4527 f1@10=0.1597 
+After optimization ------------------- UFG-f1:0.0201
+
+
+
+Model:biasedMF | Dataset:dataset\5Grocery-rand |  Epsilon=0.01 | K=10 | GRU_metric=f1
+Before optimization overall scores           : ndcg@10=0.4508 f1@10=0.1578 
+Before optimization group 1 (active) scores  : ndcg@10=0.6629 f1@10=0.3385 
+Before optimization group 2 (inactive) scores: ndcg@10=0.4316 f1@10=0.1415 
+Before optimization ------------------ UFG-f1:0.1970
+After optimization overall metric scores     : ndcg@10=0.4550 f1@10=0.1618 
+After optimization group 1 (active) scores   : ndcg@10=0.4648 f1@10=0.1712 
+After optimization group 2 (inactive) scores : ndcg@10=0.4542 f1@10=0.1610 
+After optimization ------------------- UFG-f1:0.0102
+
+
+
+Model:biasedMF | Dataset:dataset\5Grocery-rand |  Epsilon=0 | K=10 | GRU_metric=f1
+Before optimization overall scores           : ndcg@10=0.4508 f1@10=0.1578 
+Before optimization group 1 (active) scores  : ndcg@10=0.6629 f1@10=0.3385 
+Before optimization group 2 (inactive) scores: ndcg@10=0.4316 f1@10=0.1415 
+Before optimization ------------------ UFG-f1:0.1970
+After optimization overall metric scores     : ndcg@10=0.4547 f1@10=0.1623 
+After optimization group 1 (active) scores   : ndcg@10=0.4474 f1@10=0.1624 
+After optimization group 2 (inactive) scores : ndcg@10=0.4554 f1@10=0.1623 
+After optimization ------------------- UFG-f1:0.0002
+
+
+
+Model:biasedMF | Dataset:dataset\5Grocery-rand |  Epsilon=0 | K=10 | GRU_metric=NDCG
+Before optimization overall scores           : ndcg@10=0.4508 f1@10=0.1578 
+Before optimization group 1 (active) scores  : ndcg@10=0.6629 f1@10=0.3385 
+Before optimization group 2 (inactive) scores: ndcg@10=0.4316 f1@10=0.1415 
+Before optimization ------------------ UFG-f1:0.1970
+Model:biasedMF | Dataset:dataset\5Grocery-rand |  Epsilon=0 | K=10 | GRU_metric=ndcg
+Before optimization overall scores           : ndcg@10=0.4508 f1@10=0.1578 
+Before optimization group 1 (active) scores  : ndcg@10=0.6629 f1@10=0.3385 
+Before optimization group 2 (inactive) scores: ndcg@10=0.4316 f1@10=0.1415 
+Before optimization ------------------ UFG-f1:0.1970
+Model:biasedMF | Dataset:dataset\5Grocery-rand |  Epsilon=0 | K=10 | GRU_metric=f1
+Before optimization overall scores           : ndcg@10=0.4508 f1@10=0.1578 
+Before optimization group 1 (active) scores  : ndcg@10=0.6629 f1@10=0.3385 
+Before optimization group 2 (inactive) scores: ndcg@10=0.4316 f1@10=0.1415 
+Before optimization ------------------ UFG-f1:0.1970
+Model:biasedMF | Dataset:dataset\5Grocery-rand |  Epsilon=0 | K=10 | GRU_metric=ndcg
+Before optimization overall scores           : ndcg@10=0.4508 f1@10=0.1578 
+Before optimization group 1 (active) scores  : ndcg@10=0.6629 f1@10=0.3385 
+Before optimization group 2 (inactive) scores: ndcg@10=0.4316 f1@10=0.1415 
+Before optimization ------------------ UFG-f1:0.1970

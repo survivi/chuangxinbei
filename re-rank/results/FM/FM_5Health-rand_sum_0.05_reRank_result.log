@@ -1,0 +1,13 @@
+Model:BiasedMF | Dataset:dataset\5Health-rand |  Epsilon=0.05 | K=10 | GRU_metric=f1
+Model:biasedMF | Dataset:dataset\5Health-rand |  Epsilon=0.05 | K=10 | GRU_metric=f1
+Before optimization overall scores           : ndcg@10=0.4137 f1@10=0.1392 
+Before optimization group 1 (active) scores  : ndcg@10=0.6772 f1@10=0.3304 
+Before optimization group 2 (inactive) scores: ndcg@10=0.3915 f1@10=0.1231 
+Before optimization ------------------ UFG-f1:0.2073
+After optimization overall metric scores     : ndcg@10=0.4215 f1@10=0.1450 
+After optimization group 1 (active) scores   : ndcg@10=0.5220 f1@10=0.1911 
+After optimization group 2 (inactive) scores : ndcg@10=0.4131 f1@10=0.1411 
+After optimization ------------------- UFG-f1:0.0500
+
+
+

@@ -1,0 +1,12 @@
+Model:NCF | Dataset:dataset\5Health-rand |  Epsilon=0.05 | K=10 | GRU_metric=f1
+Before optimization overall scores           : ndcg@10=0.3355 f1@10=0.1220 
+Before optimization group 1 (active) scores  : ndcg@10=0.6174 f1@10=0.3210 
+Before optimization group 2 (inactive) scores: ndcg@10=0.3117 f1@10=0.1053 
+Before optimization ------------------ UFG-f1:0.2157
+After optimization overall metric scores     : ndcg@10=0.3426 f1@10=0.1288 
+After optimization group 1 (active) scores   : ndcg@10=0.4256 f1@10=0.1749 
+After optimization group 2 (inactive) scores : ndcg@10=0.3356 f1@10=0.1249 
+After optimization ------------------- UFG-f1:0.0500
+
+
+

@@ -1,0 +1,13 @@
+
+Model:NCF | Dataset:dataset\5Beauty-rand |  Epsilon=0.05 | K=10 | GRU_metric=f1
+Before optimization overall scores           : ndcg@10=0.3513 f1@10=0.1244 
+Before optimization group 1 (active) scores  : ndcg@10=0.6000 f1@10=0.2828 
+Before optimization group 2 (inactive) scores: ndcg@10=0.3310 f1@10=0.1115 
+Before optimization ------------------ UFG-f1:0.1713
+After optimization overall metric scores     : ndcg@10=0.3631 f1@10=0.1368 
+After optimization group 1 (active) scores   : ndcg@10=0.4270 f1@10=0.1830 
+After optimization group 2 (inactive) scores : ndcg@10=0.3579 f1@10=0.1330 
+After optimization ------------------- UFG-f1:0.0500
+
+
+

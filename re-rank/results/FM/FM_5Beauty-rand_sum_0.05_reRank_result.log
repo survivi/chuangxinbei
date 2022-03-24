@@ -1,0 +1,12 @@
+Model:biasedMF | Dataset:dataset\5Beauty-rand |  Epsilon=0.05 | K=10 | GRU_metric=f1
+Before optimization overall scores           : ndcg@10=0.4325 f1@10=0.1427 
+Before optimization group 1 (active) scores  : ndcg@10=0.6594 f1@10=0.2976 
+Before optimization group 2 (inactive) scores: ndcg@10=0.4140 f1@10=0.1301 
+Before optimization ------------------ UFG-f1:0.1675
+After optimization overall metric scores     : ndcg@10=0.4387 f1@10=0.1495 
+After optimization group 1 (active) scores   : ndcg@10=0.5243 f1@10=0.1957 
+After optimization group 2 (inactive) scores : ndcg@10=0.4317 f1@10=0.1457 
+After optimization ------------------- UFG-f1:0.0500
+
+
+

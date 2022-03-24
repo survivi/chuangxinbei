@@ -1,0 +1,13 @@
+
+Model:NCF | Dataset:dataset\5Grocery-rand |  Epsilon=0.05 | K=10 | GRU_metric=f1
+Before optimization overall scores           : ndcg@10=0.3886 f1@10=0.1451 
+Before optimization group 1 (active) scores  : ndcg@10=0.6402 f1@10=0.3316 
+Before optimization group 2 (inactive) scores: ndcg@10=0.3659 f1@10=0.1282 
+Before optimization ------------------ UFG-f1:0.2035
+After optimization overall metric scores     : ndcg@10=0.3960 f1@10=0.1524 
+After optimization group 1 (active) scores   : ndcg@10=0.4531 f1@10=0.1984 
+After optimization group 2 (inactive) scores : ndcg@10=0.3908 f1@10=0.1483 
+After optimization ------------------- UFG-f1:0.0501
+
+
+
